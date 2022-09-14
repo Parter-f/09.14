@@ -2,6 +2,7 @@ import {veletlen} from './matek.js';
 import {NEV , LOREM} from './kulonleges.js';
 //import { concat } from 'lodash';
 import _ from 'lodash';
+import bs from 'bootstrap';
 
 
 console.log(veletlen(5,1000));
