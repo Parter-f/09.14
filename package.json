@@ -1,0 +1,23 @@
+{
+  "name": "0914",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "0914.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parter-f/09.14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parter-f/09.14/issues"
+  },
+  "homepage": "https://github.com/Parter-f/09.14#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
